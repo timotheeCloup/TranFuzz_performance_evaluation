@@ -1,0 +1,2 @@
+python3 test/predictions.py --target_path ./target_webcam_densenet.pt --target_dataset webcam
+python3 test/predictions.py --target_path ./defense/models/office31/target_webcam_densenet_adv_madry.pt --target_dataset webcam

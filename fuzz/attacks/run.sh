@@ -1,0 +1,1 @@
+python3 attacks/attacks.py --dataset_target webcam --model_target densenet --batch_size 8 --attack_method fgsm --model_path defense/models/office31/target_webcam_densenet_adv_madry.pt
